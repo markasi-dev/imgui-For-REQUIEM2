@@ -1,4 +1,3 @@
-#include "rqpch.h"
 // dear imgui, v1.92.9 WIP
 // (tables and columns code)
 
